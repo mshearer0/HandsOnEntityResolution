@@ -1,0 +1,650 @@
+,Constituency,Firstname_x,Lastname_x,Firstname_y,Lastname_y
+0,Aberavon,Stephen,Kinnock,Stephen,Kinnock
+1,Aberconwy,Robin,Millar,Robin,Millar
+2,Aberdeen North,Kirsty,Blackman,Kirsty,Blackman
+3,Aberdeen South,Stephen,Flynn,Stephen,Flynn
+4,Airdrie and Shotts,Neil,Gray,Anum,Qaisar
+5,Aldershot,Leo,Docherty,Leo,Docherty
+6,Aldridge-Brownhills,Wendy,Morton,Wendy,Morton
+7,Altrincham and Sale West,Graham,Brady,Graham,Brady
+8,Alyn and Deeside,Mark,Tami,Mark,Tami
+9,Amber Valley,Nigel,Mills,Nigel,Mills
+10,Angus,Dave,Doogan,Dave,Doogan
+11,Arfon,Hywel,Williams,Hywel,Williams
+12,Argyll and Bute,Brendan,O'Hara,Brendan,O'Hara
+13,Arundel and South Downs,Andrew,Griffith,Andrew,Griffith
+14,Ashfield,Lee,Anderson,Lee,Anderson
+15,Ashford,Damian,Green,Damian,Green
+16,Ashton-under-Lyne,Angela,Rayner,Angela,Rayner
+17,Aylesbury,Rob,Butler,Rob,Butler
+18,Ayr Carrick and Cumnock,Allan,Dorans,Allan,Dorans
+19,Banbury,Victoria,Prentis,Victoria,Prentis
+20,Banff and Buchan,David,Duguid,David,Duguid
+21,Barking,Margaret,Hodge,Margaret,Hodge
+22,Barnsley Central,Dan,Jarvis,Dan,Jarvis
+23,Barnsley East,Stephanie,Peacock,Stephanie,Peacock
+24,Barrow and Furness,Simon,Fell,Simon,Fell
+25,Basildon and Billericay,John,Baron,John,Baron
+26,Basingstoke,Maria,Miller,Maria,Miller
+27,Bassetlaw,Brendan,Clarke-Smith,Brendan,Clarke-Smith
+28,Bath,Wera,Hobhouse,Wera,Hobhouse
+29,Batley and Spen,Tracy,Brabin,Kim,Leadbeater
+30,Battersea,Marsha,de Cordova,Marsha,de Cordova
+31,Beaconsfield,Joy,Morrissey,Joy,Morrissey
+32,Beckenham,Bob,Stewart,Bob,Stewart
+33,Bedford,Mohammad,Yasin,Mohammad,Yasin
+34,Belfast East,Gavin,Robinson,Gavin,Robinson
+35,Belfast North,John,Finucane,John,Finucane
+36,Belfast South,Claire,Hanna,Claire,Hanna
+37,Belfast West,Paul,Maskey,Paul,Maskey
+38,Bermondsey and Old Southwark,Neil,Coyle,Neil,Coyle
+39,Berwick-upon-Tweed,Anne-Marie,Trevelyan,Anne-Marie,Trevelyan
+40,Berwickshire Roxburgh and Selkirk,John,Lamont,John,Lamont
+41,Bethnal Green and Bow,Rushanara,Ali,Rushanara,Ali
+42,Beverley and Holderness,Graham,Stuart,Graham,Stuart
+43,Bexhill and Battle,Huw,Merriman,Huw,Merriman
+44,Bexleyheath and Crayford,David,Evennett,David,Evennett
+45,Birkenhead,Mick,Whitley,Mick,Whitley
+46,Birmingham Edgbaston,Preet,Gill,Preet,Gill
+47,Birmingham Erdington,Jack,Dromey,Paulette,Hamilton
+48,Birmingham Hall Green,Tahir,Ali,Tahir,Ali
+49,Birmingham Hodge Hill,Liam,Byrne,Liam,Byrne
+50,Birmingham Ladywood,Shabana,Mahmood,Shabana,Mahmood
+51,Birmingham Northfield,Gary,Sambrook,Gary,Sambrook
+52,Birmingham Perry Barr,Khalid,Mahmood,Khalid,Mahmood
+53,Birmingham Selly Oak,Steve,McCabe,Steve,McCabe
+54,Birmingham Yardley,Jess,Phillips,Jess,Phillips
+55,Bishop Auckland,Dehenna,Davison,Dehenna,Davison
+56,Blackburn,Kate,Hollern,Kate,Hollern
+57,Blackley and Broughton,Graham,Stringer,Graham,Stringer
+58,Blackpool North and Cleveleys,Paul,Maynard,Paul,Maynard
+59,Blackpool South,Scott,Benton,Scott,Benton
+60,Blaenau Gwent,Nick,Smith,Nick,Smith
+61,Blaydon,Liz,Twist,Liz,Twist
+62,Blyth Valley,Ian,Levy,Ian,Levy
+63,Bognor Regis and Littlehampton,Nick,Gibb,Nick,Gibb
+64,Bolsover,Mark,Fletcher,Mark,Fletcher
+65,Bolton North East,Mark,Logan,Mark,Logan
+66,Bolton South East,Yasmin,Qureshi,Yasmin,Qureshi
+67,Bolton West,Chris,Green,Chris,Green
+68,Bootle,Peter,Dowd,Peter,Dowd
+69,Boston and Skegness,Matt,Warman,Matt,Warman
+70,Bosworth,Luke,Evans,Luke,Evans
+71,Bournemouth East,Tobias,Ellwood,Tobias,Ellwood
+72,Bournemouth West,Conor,Burns,Conor,Burns
+73,Bracknell,James,Sunderland,James,Sunderland
+74,Bradford East,Imran,Hussain,Imran,Hussain
+75,Bradford South,Judith,Cummins,Judith,Cummins
+76,Bradford West,Naseem,Shah,Naseem,Shah
+77,Braintree,James,Cleverly,James,Cleverly
+78,Brecon and Radnorshire,Fay,Jones,Fay,Jones
+79,Brent Central,Dawn,Butler,Dawn,Butler
+80,Brent North,Barry,Gardiner,Barry,Gardiner
+81,Brentford and Isleworth,Ruth,Cadbury,Ruth,Cadbury
+82,Brentwood and Ongar,Alex,Burghart,Alex,Burghart
+83,Bridgend,Jamie,Wallis,Jamie,Wallis
+84,Bridgwater and West Somerset,Ian,Liddell-Grainger,Ian,Liddell-Grainger
+85,Brigg and Goole,Andrew,Percy,Andrew,Percy
+86,Brighton Kemptown,Lloyd,Russell-Moyle,Lloyd,Russell-Moyle
+87,Brighton Pavilion,Caroline,Lucas,Caroline,Lucas
+88,Bristol East,Kerry,McCarthy,Kerry,McCarthy
+89,Bristol North West,Darren,Jones,Darren,Jones
+90,Bristol South,Karin,Smyth,Karin,Smyth
+91,Bristol West,Thangam,Debbonaire,Thangam,Debbonaire
+92,Broadland,Jerome,Mayhew,Jerome,Mayhew
+93,Bromley and Chislehurst,Bob,Neill,Bob,Neill
+94,Bromsgrove,Sajid,Javid,Sajid,Javid
+95,Broxbourne,Charles,Walker,Charles,Walker
+96,Broxtowe,Darren,Henry,Darren,Henry
+97,Buckingham,Greg,Smith,Greg,Smith
+98,Burnley,Antony,Higginbotham,Antony,Higginbotham
+99,Burton,Kate,Griffiths,Kate,Kniveton
+100,Bury North,James,Daly,James,Daly
+101,Bury South,Christian,Wakeford,Christian,Wakeford
+102,Bury St Edmunds,Jo,Churchill,Jo,Churchill
+103,Caerphilly,Wayne,David,Wayne,David
+104,Caithness Sutherland and Easter Ross,Jamie,Stone,Jamie,Stone
+105,Calder Valley,Craig,Whittaker,Craig,Whittaker
+106,Camberwell and Peckham,Harriet,Harman,Harriet,Harman
+107,Camborne and Redruth,George,Eustice,George,Eustice
+108,Cambridge,Daniel,Zeichner,Daniel,Zeichner
+109,Cannock Chase,Amanda,Milling,Amanda,Milling
+110,Canterbury,Rosie,Duffield,Rosie,Duffield
+111,Cardiff Central,Jo,Stevens,Jo,Stevens
+112,Cardiff North,Anna,McMorrin,Anna,McMorrin
+113,Cardiff South and Penarth,Stephen,Doughty,Stephen,Doughty
+114,Cardiff West,Kevin,Brennan,Kevin,Brennan
+115,Carlisle,John,Stevenson,John,Stevenson
+116,Carmarthen East and Dinefwr,Jonathan,Edwards,Jonathan,Edwards
+117,Carmarthen West and South Pembrokeshire,Simon,Hart,Simon,Hart
+118,Carshalton and Wallington,Elliot,Colburn,Elliot,Colburn
+119,Castle Point,Rebecca,Harris,Rebecca,Harris
+120,Central Ayrshire,Philippa,Whitford,Philippa,Whitford
+121,Central Devon,Mel,Stride,Mel,Stride
+122,Central Suffolk and North Ipswich,Dan,Poulter,Daniel,Poulter
+123,Ceredigion,Ben,Lake,Ben,Lake
+124,Charnwood,Edward,Argar,Edward,Argar
+125,Chatham and Aylesford,Tracey,Crouch,Tracey,Crouch
+126,Cheadle,Mary,Robinson,Mary,Robinson
+127,Chelmsford,Vicky,Ford,Vicky,Ford
+128,Chelsea and Fulham,Greg,Hands,Greg,Hands
+129,Cheltenham,Alex,Chalk,Alex,Chalk
+130,Chesham and Amersham,Cheryl,Gillan,Sarah,Green
+131,Chesterfield,Toby,Perkins,Toby,Perkins
+132,Chichester,Gillian,Keegan,Gillian,Keegan
+133,Chingford and Woodford Green,Iain,Duncan Smith,Iain,Duncan Smith
+134,Chippenham,Michelle,Donelan,Michelle,Donelan
+135,Chipping Barnet,Theresa,Villiers,Theresa,Villiers
+136,Chorley,Lindsay,Hoyle,Lindsay,Hoyle
+137,Christchurch,Christopher,Chope,Christopher,Chope
+138,Cities of London and Westminster,Nickie,Aiken,Nickie,Aiken
+139,City of Chester,Chris,Matheson,Samantha,Dixon
+140,City of Durham,Mary,Foy,Mary,Foy
+141,Clacton,Giles,Watling,Giles,Watling
+142,Cleethorpes,Martin,Vickers,Martin,Vickers
+143,Clwyd South,Simon,Baynes,Simon,Baynes
+144,Clwyd West,David,Jones,David,Jones
+145,Coatbridge Chryston and Bellshill,Steven,Bonnar,Steven,Bonnar
+146,Colchester,Will,Quince,Will,Quince
+147,Colne Valley,Jason,McCartney,Jason,McCartney
+148,Congleton,Fiona,Bruce,Fiona,Bruce
+149,Copeland,Trudy,Harrison,Trudy,Harrison
+150,Corby,Tom,Pursglove,Tom,Pursglove
+151,Coventry North East,Colleen,Fletcher,Colleen,Fletcher
+152,Coventry North West,Taiwo,Owatemi,Taiwo,Owatemi
+153,Coventry South,Zarah,Sultana,Zarah,Sultana
+154,Crawley,Henry,Smith,Henry,Smith
+155,Crewe and Nantwich,Kieran,Mullan,Kieran,Mullan
+156,Croydon Central,Sarah,Jones,Sarah,Jones
+157,Croydon North,Steve,Reed,Steve,Reed
+158,Croydon South,Chris,Philp,Chris,Philp
+159,Cumbernauld Kilsyth and Kirkintilloch East,Stuart,McDonald,Stuart,McDonald
+160,Cynon Valley,Beth,Winter,Beth,Winter
+161,Dagenham and Rainham,Jon,Cruddas,Jon,Cruddas
+162,Darlington,Peter,Gibson,Peter,Gibson
+163,Dartford,Gareth,Johnson,Gareth,Johnson
+164,Daventry,Chris,Heaton-Harris,Chris,Heaton-Harris
+165,Delyn,Rob,Roberts,Rob,Roberts
+166,Denton and Reddish,Andrew,Gwynne,Andrew,Gwynne
+167,Derby North,Amanda,Solloway,Amanda,Solloway
+168,Derby South,Margaret,Beckett,Margaret,Beckett
+169,Derbyshire Dales,Sarah,Dines,Sarah,Dines
+170,Devizes,Danny,Kruger,Danny,Kruger
+171,Dewsbury,Mark,Eastwood,Mark,Eastwood
+172,Don Valley,Nicholas,Fletcher,Nicholas,Fletcher
+173,Doncaster Central,Rosie,Winterton,Rosie,Winterton
+174,Doncaster North,Ed,Miliband,Ed,Miliband
+175,Dover,Natalie,Elphicke,Natalie,Elphicke
+176,Dudley North,Marco,Longhi,Marco,Longhi
+177,Dudley South,Mike,Wood,Mike,Wood
+178,Dulwich and West Norwood,Helen,Hayes,Helen,Hayes
+179,Dumfries and Galloway,Alister,Jack,Alister,Jack
+180,Dumfriesshire Clydesdale and Tweeddale,David,Mundell,David,Mundell
+181,Dundee East,Stewart,Hosie,Stewart,Hosie
+182,Dundee West,Chris,Law,Chris,Law
+183,Dunfermline and West Fife,Douglas,Chapman,Douglas,Chapman
+184,Dwyfor Meirionnydd,Liz,Saville-Roberts,Liz,Saville-Roberts
+185,Ealing Central and Acton,Rupa,Huq,Rupa,Huq
+186,Ealing North,James,Murray,James,Murray
+187,Ealing Southall,Virendra,Sharma,Virendra,Sharma
+188,Easington,Grahame,Morris,Grahame,Morris
+189,East Antrim,Sammy,Wilson,Sammy,Wilson
+190,East Devon,Simon,Jupp,Simon,Jupp
+191,East Dunbartonshire,Amy,Callaghan,Amy,Callaghan
+192,East Ham,Stephen,Timms,Stephen,Timms
+193,East Hampshire,Damian,Hinds,Damian,Hinds
+194,East Kilbride Strathaven and Lesmahagow,Lisa,Cameron,Lisa,Cameron
+195,East Londonderry,Gregory,Campbell,Gregory,Campbell
+196,East Lothian,Kenny,MacAskill,Kenny,MacAskill
+197,East Renfrewshire,Kirsten,Oswald,Kirsten,Oswald
+198,East Surrey,Claire,Coutinho,Claire,Coutinho
+199,East Worthing and Shoreham,Tim,Loughton,Tim,Loughton
+200,East Yorkshire,Greg,Knight,Greg,Knight
+201,Eastbourne,Caroline,Ansell,Caroline,Ansell
+202,Eastleigh,Paul,Holmes,Paul,Holmes
+203,Eddisbury,Edward,Timpson,Edward,Timpson
+204,Edinburgh East,Tommy,Sheppard,Tommy,Sheppard
+205,Edinburgh North and Leith,Deidre,Brock,Deidre,Brock
+206,Edinburgh South,Ian,Murray,Ian,Murray
+207,Edinburgh South West,Joanna,Cherry,Joanna,Cherry
+208,Edinburgh West,Christine,Jardine,Christine,Jardine
+209,Edmonton,Kate,Osamor,Kate,Osamor
+210,Ellesmere Port and Neston,Justin,Madders,Justin,Madders
+211,Elmet and Rothwell,Alec,Shelbrooke,Alec,Shelbrooke
+212,Eltham,Clive,Efford,Clive,Efford
+213,Enfield North,Feryal,Clark,Feryal,Clark
+214,Enfield Southgate,Bambos,Charalambous,Bambos,Charalambous
+215,Epping Forest,Eleanor,Laing,Eleanor,Laing
+216,Epsom and Ewell,Chris,Grayling,Chris,Grayling
+217,Erewash,Maggie,Throup,Maggie,Throup
+218,Erith and Thamesmead,Abena,Oppong-Asare,Abena,Oppong-Asare
+219,Esher and Walton,Dominic,Raab,Dominic,Raab
+220,Exeter,Ben,Bradshaw,Ben,Bradshaw
+221,Falkirk,John,McNally,John,McNally
+222,Fareham,Suella,Braverman,Suella,Braverman
+223,Faversham and Mid Kent,Helen,Whately,Helen,Whately
+224,Feltham and Heston,Seema,Malhotra,Seema,Malhotra
+225,Fermanagh and South Tyrone,Michelle,Gildernew,Michelle,Gildernew
+226,Filton and Bradley Stoke,Jack,Lopresti,Jack,Lopresti
+227,Finchley and Golders Green,Mike,Freer,Mike,Freer
+228,Folkestone and Hythe,Damian,Collins,Damian,Collins
+229,Forest of Dean,Mark,Harper,Mark,Harper
+230,Foyle,Colum,Eastwood,Colum,Eastwood
+231,Fylde,Mark,Menzies,Mark,Menzies
+232,Gainsborough,Edward,Leigh,Edward,Leigh
+233,Garston and Halewood,Maria,Eagle,Maria,Eagle
+234,Gateshead,Ian,Mearns,Ian,Mearns
+235,Gedling,Tom,Randall,Tom,Randall
+236,Gillingham and Rainham,Rehman,Chishti,Rehman,Chishti
+237,Glasgow Central,Alison,Thewliss,Alison,Thewliss
+238,Glasgow East,David,Linden,David,Linden
+239,Glasgow North,Patrick,Grady,Patrick,Grady
+240,Glasgow North East,Anne,McLaughlin,Anne,McLaughlin
+241,Glasgow North West,Carol,Monaghan,Carol,Monaghan
+242,Glasgow South,Stewart,McDonald,Stewart,McDonald
+243,Glasgow South West,Chris,Stephens,Chris,Stephens
+244,Glenrothes,Peter,Grant,Peter,Grant
+245,Gloucester,Richard,Graham,Richard,Graham
+246,Gordon,Richard,Thomson,Richard,Thomson
+247,Gosport,Caroline,Dinenage,Caroline,Dinenage
+248,Gower,Tonia,Antoniazzi,Tonia,Antoniazzi
+249,Grantham and Stamford,Gareth,Davies,Gareth,Davies
+250,Gravesham,Adam,Holloway,Adam,Holloway
+251,Great Grimsby,Lia,Nici,Lia,Nici
+252,Great Yarmouth,Brandon,Lewis,Brandon,Lewis
+253,Greenwich and Woolwich,Matthew,Pennycook,Matthew,Pennycook
+254,Guildford,Angela,Richardson,Angela,Richardson
+255,Hackney North and Stoke Newington,Diane,Abbott,Diane,Abbott
+256,Hackney South and Shoreditch,Meg,Hillier,Meg,Hillier
+257,Halesowen and Rowley Regis,James,Morris,James,Morris
+258,Halifax,Holly,Lynch,Holly,Lynch
+259,Haltemprice and Howden,David,Davis,David,Davis
+260,Halton,Derek,Twigg,Derek,Twigg
+261,Hammersmith,Andrew,Slaughter,Andrew,Slaughter
+262,Hampstead and Kilburn,Tulip,Siddiq,Tulip,Siddiq
+263,Harborough,Neil,O'Brien,Neil,O'Brien
+264,Harlow,Robert,Halfon,Robert,Halfon
+265,Harrogate and Knaresborough,Andrew,Jones,Andrew,Jones
+266,Harrow East,Bob,Blackman,Bob,Blackman
+267,Harrow West,Gareth,Thomas,Gareth,Thomas
+268,Hartlepool,Mike,Hill,Jill,Mortimer
+269,Harwich and North Essex,Bernard,Jenkin,Bernard,Jenkin
+270,Hastings and Rye,Sally-Ann,Hart,Sally-Ann,Hart
+271,Havant,Alan,Mak,Alan,Mak
+272,Hayes and Harlington,John,McDonnell,John,McDonnell
+273,Hazel Grove,William,Wragg,William,Wragg
+274,Hemel Hempstead,Mike,Penning,Mike,Penning
+275,Hemsworth,Jon,Trickett,Jon,Trickett
+276,Hendon,Matthew,Offord,Matthew,Offord
+277,Henley,John,Howell,John,Howell
+278,Hereford and South Herefordshire,Jesse,Norman,Jesse,Norman
+279,Hertford and Stortford,Julie,Marson,Julie,Marson
+280,Hertsmere,Oliver,Dowden,Oliver,Dowden
+281,Hexham,Guy,Opperman,Guy,Opperman
+282,Heywood and Middleton,Chris,Clarkson,Chris,Clarkson
+283,High Peak,Robert,Largan,Robert,Largan
+284,Hitchin and Harpenden,Bim,Afolami,Bim,Afolami
+285,Holborn and St Pancras,Keir,Starmer,Keir,Starmer
+286,Hornchurch and Upminster,Julia,Lopez,Julia,Lopez
+287,Hornsey and Wood Green,Catherine,West,Catherine,West
+288,Horsham,Jeremy,Quin,Jeremy,Quin
+289,Houghton and Sunderland South,Bridget,Phillipson,Bridget,Phillipson
+290,Hove,Peter,Kyle,Peter,Kyle
+291,Huddersfield,Barry,Sheerman,Barry,Sheerman
+292,Huntingdon,Jonathan,Djanogly,Jonathan,Djanogly
+293,Hyndburn,Sara,Britcliffe,Sara,Britcliffe
+294,Ilford North,Wes,Streeting,Wes,Streeting
+295,Ilford South,Sam,Tarry,Sam,Tarry
+296,Inverclyde,Ronnie,Cowan,Ronnie,Cowan
+297,Inverness Nairn Badenoch and Strathspey,Drew,Hendry,Drew,Hendry
+298,Ipswich,Tom,Hunt,Tom,Hunt
+299,Isle of Wight,Bob,Seely,Bob,Seely
+300,Islington North,Jeremy,Corbyn,Jeremy,Corbyn
+301,Islington South and Finsbury,Emily,Thornberry,Emily,Thornberry
+302,Islwyn,Chris,Evans,Chris,Evans
+303,Jarrow,Kate,Osborne,Kate,Osborne
+304,Keighley,Robbie,Moore,Robbie,Moore
+305,Kenilworth and Southam,Jeremy,Wright,Jeremy,Wright
+306,Kensington,Felicity,Buchan,Felicity,Buchan
+307,Kettering,Philip,Hollobone,Philip,Hollobone
+308,Kilmarnock and Loudoun,Alan,Brown,Alan,Brown
+309,Kingston and Surbiton,Edward,Davey,Edward,Davey
+310,Kingston upon Hull East,Karl,Turner,Karl,Turner
+311,Kingston upon Hull North,Diana,Johnson,Diana,Johnson
+312,Kingston upon Hull West and Hessle,Emma,Hardy,Emma,Hardy
+313,Kingswood,Chris,Skidmore,Chris,Skidmore
+314,Kirkcaldy and Cowdenbeath,Neale,Hanvey,Neale,Hanvey
+315,Knowsley,George,Howarth,George,Howarth
+316,Lagan Valley,Jeffrey,Donaldson,Jeffrey,Donaldson
+317,Lanark and Hamilton East,Angela,Crawley,Angela,Crawley
+318,Lancaster and Fleetwood,Cat,Smith,Cat,Smith
+319,Leeds Central,Hilary,Benn,Hilary,Benn
+320,Leeds East,Richard,Burgon,Richard,Burgon
+321,Leeds North East,Fabian,Hamilton,Fabian,Hamilton
+322,Leeds North West,Alex,Sobel,Alex,Sobel
+323,Leeds West,Rachel,Reeves,Rachel,Reeves
+324,Leicester East,Claudia,Webbe,Claudia,Webbe
+325,Leicester South,Jon,Ashworth,Jon,Ashworth
+326,Leicester West,Liz,Kendall,Liz,Kendall
+327,Leigh,James,Grundy,James,Grundy
+328,Lewes,Maria,Caulfield,Maria,Caulfield
+329,Lewisham East,Janet,Daby,Janet,Daby
+330,Lewisham West and Penge,Ellie,Reeves,Ellie,Reeves
+331,Lewisham Deptford,Vicky,Foxcroft,Vicky,Foxcroft
+332,Leyton and Wanstead,John,Cryer,John,Cryer
+333,Lichfield,Michael,Fabricant,Michael,Fabricant
+334,Lincoln,Karl,McCartney,Karl,McCartney
+335,Linlithgow and East Falkirk,Martyn,Day,Martyn,Day
+336,Liverpool Riverside,Kim,Johnson,Kim,Johnson
+337,Liverpool Walton,Dan,Carden,Dan,Carden
+338,Liverpool Wavertree,Paula,Barker,Paula,Barker
+339,Liverpool West Derby,Ian,Byrne,Ian,Byrne
+340,Livingston,Hannah,Bardell,Hannah,Bardell
+341,Llanelli,Nia,Griffith,Nia,Griffith
+342,Loughborough,Jane,Hunt,Jane,Hunt
+343,Louth and Horncastle,Victoria,Atkins,Victoria,Atkins
+344,Ludlow,Philip,Dunne,Philip,Dunne
+345,Luton North,Sarah,Owen,Sarah,Owen
+346,Luton South,Rachel,Hopkins,Rachel,Hopkins
+347,Macclesfield,David,Rutley,David,Rutley
+348,Maidenhead,Theresa,May,Theresa,May
+349,Maidstone and The Weald,Helen,Grant,Helen,Grant
+350,Makerfield,Yvonne,Fovargue,Yvonne,Fovargue
+351,Maldon,John,Whittingdale,John,Whittingdale
+352,Manchester Central,Lucy,Powell,Lucy,Powell
+353,Manchester Gorton,Afzal,Khan,Afzal,Khan
+354,Manchester Withington,Jeff,Smith,Jeff,Smith
+355,Mansfield,Ben,Bradley,Ben,Bradley
+356,Meon Valley,Flick,Drummond,Flick,Drummond
+357,Meriden,Saqib,Bhatti,Saqib,Bhatti
+358,Merthyr Tydfil and Rhymney,Gerald,Jones,Gerald,Jones
+359,Mid Bedfordshire,Nadine,Dorries,Nadine,Dorries
+360,Mid Derbyshire,Pauline,Latham,Pauline,Latham
+361,Mid Dorset and North Poole,Michael,Tomlinson,Michael,Tomlinson
+362,Mid Norfolk,George,Freeman,George,Freeman
+363,Mid Sussex,Mims,Davies,Mims,Davies
+364,Mid Ulster,Francie,Molloy,Francie,Molloy
+365,Mid Worcestershire,Nigel,Huddleston,Nigel,Huddleston
+366,Middlesbrough,Andy,McDonald,Andy,McDonald
+367,Middlesbrough South and East Cleveland,Simon,Clarke,Simon,Clarke
+368,Midlothian,Owen,Thompson,Owen,Thompson
+369,Milton Keynes North,Ben,Everitt,Ben,Everitt
+370,Milton Keynes South,Iain,Stewart,Iain,Stewart
+371,Mitcham and Morden,Siobhain,McDonagh,Siobhain,McDonagh
+372,Mole Valley,Paul,Beresford,Paul,Beresford
+373,Monmouth,David,Davies,David,Davies
+374,Montgomeryshire,Craig,Williams,Craig,Williams
+375,Moray,Douglas,Ross,Douglas,Ross
+376,Morecambe and Lunesdale,David,Morris,David,Morris
+377,Morley and Outwood,Andrea,Jenkyns,Andrea,Jenkyns
+378,Motherwell and Wishaw,Marion,Fellows,Marion,Fellows
+379,Na h-Eileanan an Iar,Angus,MacNeil,Angus,MacNeil
+380,Neath,Christina,Rees,Christina,Rees
+381,New Forest East,Julian,Lewis,Julian,Lewis
+382,New Forest West,Desmond,Swayne,Desmond,Swayne
+383,Newark,Robert,Jenrick,Robert,Jenrick
+384,Newbury,Laura,Farris,Laura,Farris
+385,Newcastle upon Tyne Central,Chi,Onwurah,Chi,Onwurah
+386,Newcastle upon Tyne East,Nick,Brown,Nick,Brown
+387,Newcastle upon Tyne North,Catherine,McKinnell,Catherine,McKinnell
+388,Newcastle-under-Lyme,Aaron,Bell,Aaron,Bell
+389,Newport East,Jessica,Morden,Jessica,Morden
+390,Newport West,Ruth,Jones,Ruth,Jones
+391,Newry and Armagh,Mickey,Brady,Mickey,Brady
+392,Newton Abbot,Anne,Marie Morris,Anne,Morris
+393,Normanton Pontefract and Castleford,Yvette,Cooper,Yvette,Cooper
+394,North Antrim,Ian,Paisley,Ian,Paisley Jnr
+395,North Ayrshire and Arran,Patricia,Gibson,Patricia,Gibson
+396,North Cornwall,Scott,Mann,Scott,Mann
+397,North Devon,Selaine,Saxby,Selaine,Saxby
+398,North Dorset,Simon,Hoare,Simon,Hoare
+399,North Down,Stephen,Farry,Stephen,Farry
+400,North Durham,Kevan,Jones,Kevan,Jones
+401,North East Bedfordshire,Richard,Fuller,Richard,Fuller
+402,North East Cambridgeshire,Steve,Barclay,Steve,Barclay
+403,North East Derbyshire,Lee,Rowley,Lee,Rowley
+404,North East Fife,Wendy,Chamberlain,Wendy,Chamberlain
+405,North East Hampshire,Ranil,Jayawardena,Ranil,Jayawardena
+406,North East Hertfordshire,Oliver,Heald,Oliver,Heald
+407,North East Somerset,Jacob,Rees-Mogg,Jacob,Rees-Mogg
+408,North Herefordshire,Bill,Wiggin,Bill,Wiggin
+409,North Norfolk,Duncan,Baker,Duncan,Baker
+410,North Shropshire,Owen,Paterson,Helen,Morgan
+411,North Somerset,Liam,Fox,Liam,Fox
+412,North Swindon,Justin,Tomlinson,Justin,Tomlinson
+413,North Thanet,Roger,Gale,Roger,Gale
+414,North Tyneside,Mary,Glindon,Mary,Glindon
+415,North Warwickshire,Craig,Tracey,Craig,Tracey
+416,North West Cambridgeshire,Shailesh,Vara,Shailesh,Vara
+417,North West Durham,Richard,Holden,Richard,Holden
+418,North West Hampshire,Kit,Malthouse,Kit,Malthouse
+419,North West Leicestershire,Andrew,Bridgen,Andrew,Bridgen
+420,North West Norfolk,James,Wild,James,Wild
+421,North Wiltshire,James,Gray,James,Gray
+422,Northampton North,Michael,Ellis,Michael,Ellis
+423,Northampton South,Andrew,Lewer,Andrew,Lewer
+424,Norwich North,Chloe,Smith,Chloe,Smith
+425,Norwich South,Clive,Lewis,Clive,Lewis
+426,Nottingham East,Nadia,Whittome,Nadia,Whittome
+427,Nottingham North,Alex,Norris,Alex,Norris
+428,Nottingham South,Lilian,Greenwood,Lilian,Greenwood
+429,Nuneaton,Marcus,Jones,Marcus,Jones
+430,Ochil and South Perthshire,John,Nicolson,John,Nicolson
+431,Ogmore,Chris,Elmore,Chris,Elmore
+432,Old Bexley and Sidcup,James,Brokenshire,Louie,French
+433,Oldham East and Saddleworth,Debbie,Abrahams,Debbie,Abrahams
+434,Oldham West and Royton,Jim,McMahon,Jim,McMahon
+435,Orkney and Shetland,Alistair,Carmichael,Alistair,Carmichael
+436,Orpington,Gareth,Bacon,Gareth,Bacon
+437,Oxford East,Anneliese,Dodds,Anneliese,Dodds
+438,Oxford West and Abingdon,Layla,Moran,Layla,Moran
+439,Paisley and Renfrewshire North,Gavin,Newlands,Gavin,Newlands
+440,Paisley and Renfrewshire South,Mhairi,Black,Mhairi,Black
+441,Pendle,Andrew,Stephenson,Andrew,Stephenson
+442,Penistone and Stocksbridge,Miriam,Cates,Miriam,Cates
+443,Penrith and The Border,Neil,Hudson,Neil,Hudson
+444,Perth and North Perthshire,Pete,Wishart,Pete,Wishart
+445,Peterborough,Paul,Bristow,Paul,Bristow
+446,Plymouth Moor View,Johnny,Mercer,Johnny,Mercer
+447,Plymouth Sutton and Devonport,Luke,Pollard,Luke,Pollard
+448,Pontypridd,Alex,Davies-Jones,Alex,Davies-Jones
+449,Poole,Robert,Syms,Robert,Syms
+450,Poplar and Limehouse,Apsana,Begum,Apsana,Begum
+451,Portsmouth North,Penny,Mordaunt,Penny,Mordaunt
+452,Portsmouth South,Stephen,Morgan,Stephen,Morgan
+453,Preseli Pembrokeshire,Stephen,Crabb,Stephen,Crabb
+454,Preston,Mark,Hendrick,Mark,Hendrick
+455,Pudsey,Stuart,Andrew,Stuart,Andrew
+456,Putney,Fleur,Anderson,Fleur,Anderson
+457,Rayleigh and Wickford,Mark,Francois,Mark,Francois
+458,Reading East,Matt,Rodda,Matt,Rodda
+459,Reading West,Alok,Sharma,Alok,Sharma
+460,Redcar,Jacob,Young,Jacob,Young
+461,Redditch,Rachel,Maclean,Rachel,Maclean
+462,Reigate,Crispin,Blunt,Crispin,Blunt
+463,Rhondda,Chris,Bryant,Chris,Bryant
+464,Ribble Valley,Nigel,Evans,Nigel,Evans
+465,Richmond (Yorks),Rishi,Sunak,Rishi,Sunak
+466,Richmond Park,Sarah,Olney,Sarah,Olney
+467,Rochdale,Tony,Lloyd,Tony,Lloyd
+468,Rochester and Strood,Kelly,Tolhurst,Kelly,Tolhurst
+469,Rochford and Southend East,James,Duddridge,James,Duddridge
+470,Romford,Andrew,Rosindell,Andrew,Rosindell
+471,Romsey and Southampton North,Caroline,Nokes,Caroline,Nokes
+472,Ross Skye and Lochaber,Ian,Blackford,Ian,Blackford
+473,Rossendale and Darwen,Jake,Berry,Jake,Berry
+474,Rother Valley,Alexander,Stafford,Alexander,Stafford
+475,Rotherham,Sarah,Champion,Sarah,Champion
+476,Rugby,Mark,Pawsey,Mark,Pawsey
+477,Ruislip Northwood and Pinner,David,Simmonds,David,Simmonds
+478,Runnymede and Weybridge,Ben,Spencer,Ben,Spencer
+479,Rushcliffe,Ruth,Edwards,Ruth,Edwards
+480,Rutherglen and Hamilton West,Margaret,Ferrier,Margaret,Ferrier
+481,Rutland and Melton,Alicia,Kearns,Alicia,Kearns
+482,Saffron Walden,Kemi,Badenoch,Kemi,Badenoch
+483,Salford and Eccles,Rebecca,Long-Bailey,Rebecca,Long-Bailey
+484,Salisbury,John,Glen,John,Glen
+485,Scarborough and Whitby,Robert,Goodwill,Robert,Goodwill
+486,Scunthorpe,Holly,Mumby-Croft,Holly,Mumby-Croft
+487,Sedgefield,Paul,Howell,Paul,Howell
+488,Sefton Central,Bill,Esterson,Bill,Esterson
+489,Selby and Ainsty,Nigel,Adams,Nigel,Adams
+490,Sevenoaks,Laura,Trott,Laura,Trott
+491,Sheffield Central,Paul,Blomfield,Paul,Blomfield
+492,Sheffield South East,Clive,Betts,Clive,Betts
+493,Sheffield Brightside and Hillsborough,Gill,Furniss,Gill,Furniss
+494,Sheffield Hallam,Olivia,Blake,Olivia,Blake
+495,Sheffield Heeley,Louise,Haigh,Louise,Haigh
+496,Sherwood,Mark,Spencer,Mark,Spencer
+497,Shipley,Philip,Davies,Philip,Davies
+498,Shrewsbury and Atcham,Daniel,Kawczynski,Daniel,Kawczynski
+499,Sittingbourne and Sheppey,Gordon,Henderson,Gordon,Henderson
+500,Skipton and Ripon,Julian,Smith,Julian,Smith
+501,Sleaford and North Hykeham,Caroline,Johnson,Caroline,Johnson
+502,Slough,Tanmanjeet,Dhesi,Tan,Dhesi
+503,Solihull,Julian,Knight,Julian,Knight
+504,Somerton and Frome,David,Warburton,David,Warburton
+505,South Antrim,Paul,Girvan,Paul,Girvan
+506,South Basildon and East Thurrock,Stephen,Metcalfe,Stephen,Metcalfe
+507,South Cambridgeshire,Anthony,Browne,Anthony,Browne
+508,South Derbyshire,Heather,Wheeler,Heather,Wheeler
+509,South Dorset,Richard,Drax,Richard,Drax
+510,South Down,Chris,Hazzard,Christopher,Hazzard
+511,South East Cambridgeshire,Lucy,Frazer,Lucy,Frazer
+512,South East Cornwall,Sheryll,Murray,Sheryll,Murray
+513,South Holland and The Deepings,John,Hayes,John,Hayes
+514,South Leicestershire,Alberto,Costa,Alberto,Costa
+515,South Norfolk,Richard,Bacon,Richard,Bacon
+516,South Northamptonshire,Andrea,Leadsom,Andrea,Leadsom
+517,South Ribble,Katherine,Fletcher,Katherine,Fletcher
+518,South Shields,Emma,Lewell-Buck,Emma,Lewell-Buck
+519,South Staffordshire,Gavin,Williamson,Gavin,Williamson
+520,South Suffolk,James,Cartlidge,James,Cartlidge
+521,South Swindon,Robert,Buckland,Robert,Buckland
+522,South Thanet,Craig,Mackinlay,Craig,Mackinlay
+523,South West Bedfordshire,Andrew,Selous,Andrew,Selous
+524,South West Devon,Gary,Streeter,Gary,Streeter
+525,South West Hertfordshire,Gagan,Mohindra,Gagan,Mohindra
+526,South West Norfolk,Liz,Truss,Elizabeth,Truss
+527,South West Surrey,Jeremy,Hunt,Jeremy,Hunt
+528,South West Wiltshire,Andrew,Murrison,Andrew,Murrison
+529,Southampton Itchen,Royston,Smith,Royston,Smith
+530,Southampton Test,Alan,Whitehead,Alan,Whitehead
+531,Southend West,David,Amess,Anna,Firth
+532,Southport,Damien,Moore,Damien,Moore
+533,Spelthorne,Kwasi,Kwarteng,Kwasi,Kwarteng
+534,St Albans,Daisy,Cooper,Daisy,Cooper
+535,St Austell and Newquay,Steve,Double,Steve,Double
+536,St Helens North,Conor,McGinn,Conor,McGinn
+537,St Helens South and Whiston,Marie,Rimmer,Marie,Rimmer
+538,St Ives,Derek,Thomas,Derek,Thomas
+539,Stafford,Theo,Clarke,Theo,Clarke
+540,Staffordshire Moorlands,Karen,Bradley,Karen,Bradley
+541,Stalybridge and Hyde,Jonathan,Reynolds,Jonathan,Reynolds
+542,Stevenage,Stephen,McPartland,Stephen,McPartland
+543,Stirling,Alyn,Smith,Alyn,Smith
+544,Stockport,Navendu,Mishra,Navendu,Mishra
+545,Stockton North,Alex,Cunningham,Alex,Cunningham
+546,Stockton South,Matt,Vickers,Matt,Vickers
+547,Stoke-on-Trent Central,Jo,Gideon,Jo,Gideon
+548,Stoke-on-Trent North,Jonathan,Gullis,Jonathan,Gullis
+549,Stoke-on-Trent South,Jack,Brereton,Jack,Brereton
+550,Stone,Bill,Cash,Bill,Cash
+551,Stourbridge,Suzanne,Webb,Suzanne,Webb
+552,Strangford,Jim,Shannon,Jim,Shannon
+553,Stratford-on-Avon,Nadhim,Zahawi,Nadhim,Zahawi
+554,Streatham,Bell,Ribeiro-Addy,Bell,Ribeiro-Addy
+555,Stretford and Urmston,Kate,Green,Andrew,Western
+556,Stroud,Siobhan,Baillie,Siobhan,Baillie
+557,Suffolk Coastal,Therese,Coffey,Therese,Coffey
+558,Sunderland Central,Julie,Elliott,Julie,Elliott
+559,Surrey Heath,Michael,Gove,Michael,Gove
+560,Sutton and Cheam,Paul,Scully,Paul,Scully
+561,Sutton Coldfield,Andrew,Mitchell,Andrew,Mitchell
+562,Swansea East,Carolyn,Harris,Carolyn,Harris
+563,Swansea West,Geraint,Davies,Geraint,Davies
+564,Tamworth,Christopher,Pincher,Christopher,Pincher
+565,Tatton,Esther,McVey,Esther,McVey
+566,Taunton Deane,Rebecca,Pow,Rebecca,Pow
+567,Telford,Lucy,Allan,Lucy,Allan
+568,Tewkesbury,Laurence,Robertson,Laurence,Robertson
+569,The Cotswolds,Geoffrey,Clifton-Brown,Geoffrey,Clifton-Brown
+570,The Wrekin,Mark,Pritchard,Mark,Pritchard
+571,Thirsk and Malton,Kevin,Hollinrake,Kevin,Hollinrake
+572,Thornbury and Yate,Luke,Hall,Luke,Hall
+573,Thurrock,Jackie,Doyle-Price,Jackie,Doyle-Price
+574,Tiverton and Honiton,Neil,Parish,Richard,Foord
+575,Tonbridge and Malling,Thomas,Tugendhat,Thomas,Tugendhat
+576,Tooting,Rosena,Allin-Khan,Rosena,Allin-Khan
+577,Torbay,Kevin,Foster,Kevin,Foster
+578,Torfaen,Nick,Thomas-Symonds,Nick,Thomas-Symonds
+579,Torridge and West Devon,Geoffrey,Cox,Geoffrey,Cox
+580,Totnes,Anthony,Mangnall,Anthony,Mangnall
+581,Tottenham,David,Lammy,David,Lammy
+582,Truro and Falmouth,Cherilyn,Mackrory,Cherilyn,Mackrory
+583,Tunbridge Wells,Greg,Clark,Greg,Clark
+584,Twickenham,Munira,Wilson,Munira,Wilson
+585,Tynemouth,Alan,Campbell,Alan,Campbell
+586,Upper Bann,Carla,Lockhart,Carla,Lockhart
+587,Uxbridge and South Ruislip,Boris,Johnson,Boris,Johnson
+588,Vale of Clwyd,James,Davies,James,Davies
+589,Vale of Glamorgan,Alun,Cairns,Alun,Cairns
+590,Vauxhall,Florence,Eshalomi,Florence,Eshalomi
+591,Wakefield,Imran,Ahmad Khan,Simon,Lightwood
+592,Wallasey,Angela,Eagle,Angela,Eagle
+593,Walsall North,Eddie,Hughes,Eddie,Hughes
+594,Walsall South,Valerie,Vaz,Valerie,Vaz
+595,Walthamstow,Stella,Creasy,Stella,Creasy
+596,Wansbeck,Ian,Lavery,Ian,Lavery
+597,Wantage,David,Johnston,David,Johnston
+598,Warley,John,Spellar,John,Spellar
+599,Warrington North,Charlotte,Nichols,Charlotte,Nichols
+600,Warrington South,Andy,Carter,Andy,Carter
+601,Warwick and Leamington,Matt,Western,Matt,Western
+602,Washington and Sunderland West,Sharon,Hodgson,Sharon,Hodgson
+603,Watford,Dean,Russell,Dean,Russell
+604,Waveney,Peter,Aldous,Peter,Aldous
+605,Wealden,Nus,Ghani,Nusrat,Ghani
+606,Weaver Vale,Mike,Amesbury,Mike,Amesbury
+607,Wellingborough,Peter,Bone,Peter,Bone
+608,Wells,James,Heappey,James,Heappey
+609,Welwyn Hatfield,Grant,Shapps,Grant,Shapps
+610,Wentworth and Dearne,John,Healey,John,Healey
+611,West Aberdeenshire and Kincardine,Andrew,Bowie,Andrew,Bowie
+612,West Bromwich East,Nicola,Richards,Nicola,Richards
+613,West Bromwich West,Shaun,Bailey,Shaun,Bailey
+614,West Dorset,Chris,Loder,Chris,Loder
+615,West Dunbartonshire,Martin,Docherty-Hughes,Martin,Docherty
+616,West Ham,Lyn,Brown,Lyn,Brown
+617,West Suffolk,Matthew,Hancock,Matthew,Hancock
+618,West Tyrone,Órfhlaith,Begley,Órfhlaith,Begley
+619,West Worcestershire,Harriett,Baldwin,Harriett,Baldwin
+620,Westminster North,Karen,Buck,Karen,Buck
+621,Westmorland and Lonsdale,Tim,Farron,Tim,Farron
+622,Weston-Super-Mare,John,Penrose,John,Penrose
+623,Wigan,Lisa,Nandy,Lisa,Nandy
+624,Wimbledon,Stephen,Hammond,Stephen,Hammond
+625,Winchester,Steve,Brine,Steve,Brine
+626,Windsor,Adam,Afriyie,Adam,Afriyie
+627,Wirral South,Alison,McGovern,Alison,McGovern
+628,Wirral West,Margaret,Greenwood,Margaret,Greenwood
+629,Witham,Priti,Patel,Priti,Patel
+630,Witney,Robert,Courts,Robert,Courts
+631,Woking,Jonathan,Lord,Jonathan,Lord
+632,Wokingham,John,Redwood,John,Redwood
+633,Wolverhampton North East,Jane,Stevenson,Jane,Stevenson
+634,Wolverhampton South East,Pat,McFadden,Pat,McFadden
+635,Wolverhampton South West,Stuart,Anderson,Stuart,Anderson
+636,Worcester,Robin,Walker,Robin,Walker
+637,Workington,Mark,Jenkinson,Mark,Jenkinson
+638,Worsley and Eccles South,Barbara,Keeley,Barbara,Keeley
+639,Worthing West,Peter,Bottomley,Peter,Bottomley
+640,Wrexham,Sarah,Atherton,Sarah,Atherton
+641,Wycombe,Steven,Baker,Steven,Baker
+642,Wyre and Preston North,Ben,Wallace,Ben,Wallace
+643,Wyre Forest,Mark,Garnier,Mark,Garnier
+644,Wythenshawe and Sale East,Mike,Kane,Mike,Kane
+645,Yeovil,Marcus,Fysh,Marcus,Fysh
+646,Ynys Môn,Virginia,Crosbie,Virginia,Crosbie
+647,York Central,Rachael,Maskell,Rachael,Maskell
+648,York Outer,Julian,Sturdy,Julian,Sturdy
