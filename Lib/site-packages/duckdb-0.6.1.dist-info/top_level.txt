@@ -1,0 +1,3 @@
+duckdb
+duckdb-stubs
+duckdb_query_graph

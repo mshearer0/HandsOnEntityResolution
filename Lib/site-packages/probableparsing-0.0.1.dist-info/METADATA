@@ -1,0 +1,25 @@
+Metadata-Version: 2.0
+Name: probableparsing
+Version: 0.0.1
+Summary: Common methods for propbable parsers
+Home-page: https://github.com/datamade/probableparsing
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: The MIT License: http://www.opensource.org/licenses/mit-license.php
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+
+UNKNOWN
+
+

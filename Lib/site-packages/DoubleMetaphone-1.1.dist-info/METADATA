@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: DoubleMetaphone
+Version: 1.1
+Summary: Python wrapper for C++ Double Metaphone
+Home-page: UNKNOWN
+Author: Forest Gregg
+Author-email: fgregg@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Artistic License
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Cython
+Classifier: Programming Language :: Python
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Software Development
+License-File: LICENSE
+
+UNKNOWN
+
