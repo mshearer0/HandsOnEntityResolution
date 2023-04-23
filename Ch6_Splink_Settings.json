@@ -1,0 +1,48 @@
+{
+    "link_type": "link_only",
+    "blocking_rules_to_generate_predictions": [
+        "l.Postcode = r.Postcode",
+        "l.CompanyName = r.CompanyName"
+    ],
+    "comparisons": [
+        {
+            "output_column_name": "CompanyName",
+            "comparison_levels": [
+                {
+                    "sql_condition": "\"CompanyName_l\" IS NULL OR \"CompanyName_r\" IS NULL",
+                    "label_for_charts": "Null",
+                    "is_null_level": true
+                },
+                {
+                    "sql_condition": "\"CompanyName_l\" = \"CompanyName_r\"",
+                    "label_for_charts": "Exact match",
+                    "m_probability": 0.3836730868614594,
+                    "u_probability": 9.585000164862002e-08
+                },
+                {
+                    "sql_condition": "jaro_winkler_similarity(\"CompanyName_l\", \"CompanyName_r\") >= 0.9",
+                    "label_for_charts": "Jaro_winkler_similarity >= 0.9",
+                    "m_probability": 0.20190587680805702,
+                    "u_probability": 8.338950143429943e-06
+                },
+                {
+                    "sql_condition": "jaro_winkler_similarity(\"CompanyName_l\", \"CompanyName_r\") >= 0.8",
+                    "label_for_charts": "Jaro_winkler_similarity >= 0.8",
+                    "m_probability": 0.4139558576631094,
+                    "u_probability": 0.00025716555442324755
+                },
+                {
+                    "sql_condition": "ELSE",
+                    "label_for_charts": "All other comparisons",
+                    "m_probability": 0.0004651786673741201,
+                    "u_probability": 0.9997343996454316
+                }
+            ],
+            "comparison_description": "Exact match vs. jaro_winkler_similarity at thresholds 0.9, 0.8 vs. anything else"
+        }
+    ],
+    "retain_intermediate_calculation_columns": true,
+    "retain_matching_columns": true,
+    "sql_dialect": "duckdb",
+    "probability_two_random_records_match": 0.0001
+}
