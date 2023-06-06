@@ -1,0 +1,15 @@
+prefixes:
+  ekg: http://cloud.google.com/ekg/0.0.1#
+  schema: https://schema.org/
+
+mappings:
+  organization:
+    sources:
+      - [<your_bucket>:Chapter8.basic~bigquery]
+    s: ekg:company2_$(unique_id)
+    po:
+      - [a, schema:Organization]
+      - [schema:postalCode, $(Postcode)]
+      - [schema:name, $(CompanyName)]
+      - [ekg:recon.source_name, (basic)]
+      - [ekg:recon.source_key, $(unique_id)]
