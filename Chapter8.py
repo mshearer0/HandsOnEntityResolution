@@ -3,7 +3,7 @@
 
 from google.cloud import enterpriseknowledgegraph as ekg
 
-project_id = '<your_bucket>'
+project_id = '<your_project>'
 dataset_id = 'Chapter8'
 
 import google.cloud.enterpriseknowledgegraph as ekg
