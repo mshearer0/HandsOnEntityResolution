@@ -1,0 +1,116 @@
+{
+    "link_type": "link_only",
+    "blocking_rules_to_generate_predictions": [
+        "l.year = r.year and l.month = r.month"
+    ],
+    "comparisons": [
+        {
+            "output_column_name": "Firstname",
+            "comparison_levels": [
+                {
+                    "sql_condition": "\"Firstname_l\" IS NULL OR \"Firstname_r\" IS NULL",
+                    "label_for_charts": "Null",
+                    "is_null_level": true
+                },
+                {
+                    "sql_condition": "\"Firstname_l\" = \"Firstname_r\"",
+                    "label_for_charts": "Exact match",
+                    "m_probability": 0.9556884111117965,
+                    "u_probability": 0.0031541783601135367
+                },
+                {
+                    "sql_condition": "jaro_winkler_similarity(\"Firstname_l\", \"Firstname_r\") >= 0.9",
+                    "label_for_charts": "Jaro_winkler_similarity >= 0.9",
+                    "m_probability": 0.04238208750121277,
+                    "u_probability": 0.0011339099995425067
+                },
+                {
+                    "sql_condition": "ELSE",
+                    "label_for_charts": "All other comparisons",
+                    "m_probability": 0.0019295013869907252,
+                    "u_probability": 0.995711911640344
+                }
+            ],
+            "comparison_description": "Exact match vs. jaro_winkler_similarity at threshold 0.9 vs. anything else"
+        },
+        {
+            "output_column_name": "Lastname",
+            "comparison_levels": [
+                {
+                    "sql_condition": "\"Lastname_l\" IS NULL OR \"Lastname_r\" IS NULL",
+                    "label_for_charts": "Null",
+                    "is_null_level": true
+                },
+                {
+                    "sql_condition": "\"Lastname_l\" = \"Lastname_r\"",
+                    "label_for_charts": "Exact match",
+                    "m_probability": 0.5986392735304106,
+                    "u_probability": 0.0006757149316580655
+                },
+                {
+                    "sql_condition": "jaro_winkler_similarity(\"Lastname_l\", \"Lastname_r\") >= 0.9",
+                    "label_for_charts": "Jaro_winkler_similarity >= 0.9",
+                    "m_probability": 0.3988813926339101,
+                    "u_probability": 0.00020867873382669644
+                },
+                {
+                    "sql_condition": "ELSE",
+                    "label_for_charts": "All other comparisons",
+                    "m_probability": 0.0024793338356793033,
+                    "u_probability": 0.9991156063345152
+                }
+            ],
+            "comparison_description": "Exact match vs. jaro_winkler_similarity at threshold 0.9 vs. anything else"
+        },
+        {
+            "output_column_name": "Month",
+            "comparison_levels": [
+                {
+                    "sql_condition": "\"Month_l\" IS NULL OR \"Month_r\" IS NULL",
+                    "label_for_charts": "Null",
+                    "is_null_level": true
+                },
+                {
+                    "sql_condition": "\"Month_l\" = \"Month_r\"",
+                    "label_for_charts": "Exact match",
+                    "m_probability": 0.4268444851436677,
+                    "u_probability": 0.08330407340327088
+                },
+                {
+                    "sql_condition": "ELSE",
+                    "label_for_charts": "All other comparisons",
+                    "m_probability": 0.5731555148563323,
+                    "u_probability": 0.9166959265967292
+                }
+            ],
+            "comparison_description": "Exact match vs. anything else"
+        },
+        {
+            "output_column_name": "Year",
+            "comparison_levels": [
+                {
+                    "sql_condition": "\"Year_l\" IS NULL OR \"Year_r\" IS NULL",
+                    "label_for_charts": "Null",
+                    "is_null_level": true
+                },
+                {
+                    "sql_condition": "\"Year_l\" = \"Year_r\"",
+                    "label_for_charts": "Exact match",
+                    "m_probability": 0.5349993022682948,
+                    "u_probability": 0.018455227254930193,
+                    "tf_adjustment_column": "Year",
+                    "tf_adjustment_weight": 1.0
+                },
+                {
+                    "sql_condition": "ELSE",
+                    "label_for_charts": "All other comparisons",
+                    "m_probability": 0.46500069773170527,
+                    "u_probability": 0.9815447727450698
+                }
+            ],
+            "comparison_description": "Exact match vs. anything else"
+        }
+    ],
+    "sql_dialect": "duckdb",
+    "probability_two_random_records_match": 0.0001
+}
