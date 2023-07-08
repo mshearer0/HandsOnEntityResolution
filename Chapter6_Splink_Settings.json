@@ -16,33 +16,34 @@
                 {
                     "sql_condition": "\"CompanyName_l\" = \"CompanyName_r\"",
                     "label_for_charts": "Exact match",
-                    "m_probability": 0.3836730868614594,
-                    "u_probability": 9.585000164862002e-08
+                    "m_probability": 0.8623865381443143,
+                    "u_probability": 2.43121514929059e-07
                 },
                 {
                     "sql_condition": "jaro_winkler_similarity(\"CompanyName_l\", \"CompanyName_r\") >= 0.9",
                     "label_for_charts": "Jaro_winkler_similarity >= 0.9",
-                    "m_probability": 0.20190587680805702,
-                    "u_probability": 8.338950143429943e-06
+                    "m_probability": 0.11876947513581855,
+                    "u_probability": 8.266131507588006e-06
                 },
                 {
                     "sql_condition": "jaro_winkler_similarity(\"CompanyName_l\", \"CompanyName_r\") >= 0.8",
                     "label_for_charts": "Jaro_winkler_similarity >= 0.8",
-                    "m_probability": 0.4139558576631094,
-                    "u_probability": 0.00025716555442324755
+                    "m_probability": 0.013664289166219007,
+                    "u_probability": 0.00024020405674991026
                 },
                 {
                     "sql_condition": "ELSE",
                     "label_for_charts": "All other comparisons",
-                    "m_probability": 0.0004651786673741201,
-                    "u_probability": 0.9997343996454316
+                    "m_probability": 0.00517969755364816,
+                    "u_probability": 0.9997512866902276
                 }
             ],
-            "comparison_description": "Exact match vs. jaro_winkler_similarity at thresholds 0.9, 0.8 vs. anything else"
+            "comparison_description": "Exact match vs. Companyname within jaro_winkler_similarity thresholds 0.9, 0.8 vs. anything else"
         }
     ],
     "retain_intermediate_calculation_columns": true,
     "retain_matching_columns": true,
     "sql_dialect": "duckdb",
+    "linker_uid": "sm87ey6d",
     "probability_two_random_records_match": 0.0001
 }
