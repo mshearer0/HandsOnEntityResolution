@@ -1,7 +1,7 @@
 {
     "link_type": "link_only",
     "blocking_rules_to_generate_predictions": [
-        "l.year = r.year and l.month = r.month"
+        "l.Year = r.Year and l.Month = r.Month"
     ],
     "comparisons": [
         {
@@ -15,23 +15,23 @@
                 {
                     "sql_condition": "\"Firstname_l\" = \"Firstname_r\"",
                     "label_for_charts": "Exact match",
-                    "m_probability": 0.9556884111117965,
-                    "u_probability": 0.0031541783601135367
+                    "m_probability": 0.9536693722036732,
+                    "u_probability": 0.0037622388311744416
                 },
                 {
                     "sql_condition": "jaro_winkler_similarity(\"Firstname_l\", \"Firstname_r\") >= 0.9",
                     "label_for_charts": "Jaro_winkler_similarity >= 0.9",
-                    "m_probability": 0.04238208750121277,
-                    "u_probability": 0.0011339099995425067
+                    "m_probability": 0.04185896073102217,
+                    "u_probability": 0.0011643334683679213
                 },
                 {
                     "sql_condition": "ELSE",
                     "label_for_charts": "All other comparisons",
-                    "m_probability": 0.0019295013869907252,
-                    "u_probability": 0.995711911640344
+                    "m_probability": 0.004471667065304645,
+                    "u_probability": 0.9950734277004576
                 }
             ],
-            "comparison_description": "Exact match vs. jaro_winkler_similarity at threshold 0.9 vs. anything else"
+            "comparison_description": "Exact match vs. Firstname within jaro_winkler_similarity threshold 0.9 vs. anything else"
         },
         {
             "output_column_name": "Lastname",
@@ -44,23 +44,23 @@
                 {
                     "sql_condition": "\"Lastname_l\" = \"Lastname_r\"",
                     "label_for_charts": "Exact match",
-                    "m_probability": 0.5986392735304106,
-                    "u_probability": 0.0006757149316580655
+                    "m_probability": 0.7039682117133251,
+                    "u_probability": 0.0006134708934003129
                 },
                 {
                     "sql_condition": "jaro_winkler_similarity(\"Lastname_l\", \"Lastname_r\") >= 0.9",
                     "label_for_charts": "Jaro_winkler_similarity >= 0.9",
-                    "m_probability": 0.3988813926339101,
-                    "u_probability": 0.00020867873382669644
+                    "m_probability": 0.2935505556049878,
+                    "u_probability": 0.00029914541533406863
                 },
                 {
                     "sql_condition": "ELSE",
                     "label_for_charts": "All other comparisons",
-                    "m_probability": 0.0024793338356793033,
-                    "u_probability": 0.9991156063345152
+                    "m_probability": 0.0024812326816870916,
+                    "u_probability": 0.9990873836912656
                 }
             ],
-            "comparison_description": "Exact match vs. jaro_winkler_similarity at threshold 0.9 vs. anything else"
+            "comparison_description": "Exact match vs. Lastname within jaro_winkler_similarity threshold 0.9 vs. anything else"
         },
         {
             "output_column_name": "Month",
@@ -73,14 +73,14 @@
                 {
                     "sql_condition": "\"Month_l\" = \"Month_r\"",
                     "label_for_charts": "Exact match",
-                    "m_probability": 0.4268444851436677,
-                    "u_probability": 0.08330407340327088
+                    "m_probability": 0.5013056458813202,
+                    "u_probability": 0.0838861594985051
                 },
                 {
                     "sql_condition": "ELSE",
                     "label_for_charts": "All other comparisons",
-                    "m_probability": 0.5731555148563323,
-                    "u_probability": 0.9166959265967292
+                    "m_probability": 0.4986943541186798,
+                    "u_probability": 0.9161138405014949
                 }
             ],
             "comparison_description": "Exact match vs. anything else"
@@ -96,21 +96,22 @@
                 {
                     "sql_condition": "\"Year_l\" = \"Year_r\"",
                     "label_for_charts": "Exact match",
-                    "m_probability": 0.5349993022682948,
-                    "u_probability": 0.018455227254930193,
+                    "m_probability": 0.9571810981114466,
+                    "u_probability": 0.019595044260833656,
                     "tf_adjustment_column": "Year",
                     "tf_adjustment_weight": 1.0
                 },
                 {
                     "sql_condition": "ELSE",
                     "label_for_charts": "All other comparisons",
-                    "m_probability": 0.46500069773170527,
-                    "u_probability": 0.9815447727450698
+                    "m_probability": 0.042818901888553355,
+                    "u_probability": 0.9804049557391663
                 }
             ],
             "comparison_description": "Exact match vs. anything else"
         }
     ],
     "sql_dialect": "duckdb",
+    "linker_uid": "heycobsb",
     "probability_two_random_records_match": 0.0001
 }
