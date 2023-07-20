@@ -1,0 +1,77 @@
+{
+    "link_type": "link_only",
+    "comparisons": [
+        {
+            "output_column_name": "Firstname",
+            "comparison_levels": [
+                {
+                    "sql_condition": "\"Firstname_l\" IS NULL OR \"Firstname_r\" IS NULL",
+                    "label_for_charts": "Null",
+                    "is_null_level": true
+                },
+                {
+                    "sql_condition": "\"Firstname_l\" = \"Firstname_r\"",
+                    "label_for_charts": "Exact match",
+                    "m_probability": 0.992118804074688,
+                    "u_probability": 0.004864290128404288
+                },
+                {
+                    "sql_condition": "ELSE",
+                    "label_for_charts": "All other comparisons",
+                    "m_probability": 0.007881195925311958,
+                    "u_probability": 0.9951357098715956
+                }
+            ],
+            "comparison_description": "Exact match vs. anything else"
+        },
+        {
+            "output_column_name": "Lastname",
+            "comparison_levels": [
+                {
+                    "sql_condition": "\"Lastname_l\" IS NULL OR \"Lastname_r\" IS NULL",
+                    "label_for_charts": "Null",
+                    "is_null_level": true
+                },
+                {
+                    "sql_condition": "\"Lastname_l\" = \"Lastname_r\"",
+                    "label_for_charts": "Exact match",
+                    "m_probability": 0.9937726043638647,
+                    "u_probability": 0.0008273084095542098
+                },
+                {
+                    "sql_condition": "ELSE",
+                    "label_for_charts": "All other comparisons",
+                    "m_probability": 0.006227395636135347,
+                    "u_probability": 0.9991726915904457
+                }
+            ],
+            "comparison_description": "Exact match vs. anything else"
+        },
+        {
+            "output_column_name": "Constituency",
+            "comparison_levels": [
+                {
+                    "sql_condition": "\"Constituency_l\" IS NULL OR \"Constituency_r\" IS NULL",
+                    "label_for_charts": "Null",
+                    "is_null_level": true
+                },
+                {
+                    "sql_condition": "\"Constituency_l\" = \"Constituency_r\"",
+                    "label_for_charts": "Exact match",
+                    "m_probability": 0.9999999403661186,
+                    "u_probability": 3.092071473132138e-05
+                },
+                {
+                    "sql_condition": "ELSE",
+                    "label_for_charts": "All other comparisons",
+                    "m_probability": 5.963388147277391e-08,
+                    "u_probability": 0.9999690792852688
+                }
+            ],
+            "comparison_description": "Exact match vs. anything else"
+        }
+    ],
+    "sql_dialect": "duckdb",
+    "linker_uid": "v45wp51m",
+    "probability_two_random_records_match": 0.0001
+}
