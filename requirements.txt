@@ -4,6 +4,6 @@ jupyterlab==4.0.2
 numpy==1.25.0
 openpyxl==3.1.2
 pandas==2.0.3
-splink==3.9.3
+splink==3.9.5
 jellyfish==1.0.0
 matplotlib==3.7.2
