@@ -36,7 +36,7 @@
                     "sql_condition": "\"Lastname_l\" = \"Lastname_r\"",
                     "label_for_charts": "Exact match",
                     "m_probability": 0.9937726043638647,
-                    "u_probability": 0.0008273084095542098
+                    "u_probability": 0.00082730840955421
                 },
                 {
                     "sql_condition": "ELSE",
@@ -64,14 +64,16 @@
                 {
                     "sql_condition": "ELSE",
                     "label_for_charts": "All other comparisons",
-                    "m_probability": 5.963388147277391e-08,
+                    "m_probability": 5.963388147277392e-08,
                     "u_probability": 0.9999690792852688
                 }
             ],
             "comparison_description": "Exact match vs. anything else"
         }
     ],
+    "retain_intermediate_calculation_columns": true,
+    "retain_matching_columns": true,
     "sql_dialect": "duckdb",
-    "linker_uid": "v45wp51m",
-    "probability_two_random_records_match": 0.0001
+    "linker_uid": "adm20und",
+    "probability_two_random_records_match": 0.0015075875293170335
 }
