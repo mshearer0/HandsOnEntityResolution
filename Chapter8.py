@@ -6,8 +6,6 @@ from google.cloud import enterpriseknowledgegraph as ekg
 project_id = '<your_project>'
 dataset_id = 'Chapter8'
 
-import google.cloud.enterpriseknowledgegraph as ekg
-
 client = ekg.EnterpriseKnowledgeGraphServiceClient()
 parent = client.common_location_path(project=project_id, location='global')
 
