@@ -4,7 +4,7 @@
 from google.cloud import enterpriseknowledgegraph as ekg
 
 project_id = '<your_project>'
-dataset_id = 'Chapter8'
+dataset_id = 'Chapter9'
 
 client = ekg.EnterpriseKnowledgeGraphServiceClient()
 parent = client.common_location_path(project=project_id, location='global')
@@ -15,13 +15,13 @@ input_config = ekg.InputConfig(
                 bigquery_table=client.table_path(
                     project=project_id, dataset=dataset_id, table='mari'
                 ),
-                gcs_uri='gs://<your_bucket>/handsonentityresolution/Chapter8SchemaMari',
+                gcs_uri='gs://<your_bucket>/handsonentityresolution/Chapter9SchemaMari',
             ),
              ekg.BigQueryInputConfig(
                 bigquery_table=client.table_path(
                     project=project_id, dataset=dataset_id, table='basic'
                 ),
-                gcs_uri='gs://<your_bucket>/handsonentityresolution/Chapter8SchemaBasic',
+                gcs_uri='gs://<your_bucket>/handsonentityresolution/Chapter9SchemaBasic',
             )   
         ],
         entity_type=ekg.InputConfig.EntityType.ORGANIZATION,
