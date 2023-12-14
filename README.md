@@ -23,4 +23,4 @@ Chapter10 - Clustering
 
 Chapter11 - Further Considerations
 
-![CoverImage](https://github.com/mshearer0/HandsOnEntityResolution/assets/37480681/35ad1e5e-5b84-4683-ac75-c2accdfae152)
+![9781098148485_lrg](https://github.com/mshearer0/HandsOnEntityResolution/assets/37480681/6f062d27-fc82-4ee1-85ce-42cbb373b5eb)
