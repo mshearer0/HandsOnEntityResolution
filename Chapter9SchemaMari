@@ -5,11 +5,11 @@ prefixes:
 mappings:
   organization:
     sources:
-      - [<your_bucket>:Chapter8.basic~bigquery]
-    s: ekg:company2_$(unique_id)
+      - [cloud-training-demos-ms:Chapter8.mari~bigquery]
+    s: ekg:company1_$(unique_id)
     po:
       - [a, schema:Organization]
       - [schema:postalCode, $(Postcode)]
       - [schema:name, $(CompanyName)]
-      - [ekg:recon.source_name, (basic)]
+      - [ekg:recon.source_name, (mari)]
       - [ekg:recon.source_key, $(unique_id)]
