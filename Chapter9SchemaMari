@@ -5,7 +5,7 @@ prefixes:
 mappings:
   organization:
     sources:
-      - [cloud-training-demos-ms:Chapter8.mari~bigquery]
+      - [cloud-training-demos-ms:Chapter9.mari~bigquery]
     s: ekg:company1_$(unique_id)
     po:
       - [a, schema:Organization]
