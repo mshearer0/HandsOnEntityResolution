@@ -13,13 +13,13 @@ Chapter 5 - Record Blocking
 
 Chapter 6 - Company Matching
 
-Chapter 7 - Scaling Up On Google Cloud
+Chapter 7 - Clustering
 
-Chapter 8 - Cloud Entity Resolution Services
+Chapter 8 - Scaling Up On Google Cloud
 
-Chapter 9 - Privacy Preserving Record Linkage
+Chapter 9 - Cloud Entity Resolution Services
 
-Chapter10 - Clustering
+Chapter10 - Privacy Preserving Record Linkage
 
 Chapter11 - Further Considerations
 
