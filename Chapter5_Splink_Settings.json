@@ -111,6 +111,7 @@
             "comparison_description": "Exact match vs. anything else"
         }
     ],
+    "additional_columns_to_retain": ["company_number"],
     "sql_dialect": "duckdb",
     "linker_uid": "heycobsb",
     "probability_two_random_records_match": 0.0001
