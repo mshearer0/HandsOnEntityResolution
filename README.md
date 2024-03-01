@@ -1,5 +1,5 @@
 # HandsOnEntityResolution
-This repository accompanies the early release of Hands On Entity Resolution
+This repository accompanies Hands On Entity Resolution by O'Reilly
 
 Chapter 1 - Introduction to Entity Resolution
 
